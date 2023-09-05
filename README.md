@@ -1,1 +1,1 @@
-# SQL-Project-The-Look-E-Commerce-Analytics
+# The Look E-Commerce Business Analytics Using BigQuery SQL
